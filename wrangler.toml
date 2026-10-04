@@ -9,7 +9,7 @@ ADMIN_CHAT_ID = "-1004469027877"   # private admin group ID (the bot must be a m
 [[d1_databases]]
 binding = "DB"
 database_name = "controller_bot_db"
-database_id = "b32d2887-4d4d-4852-8be5-ffc20e593f5a"
+database_id = "2a6fd9b5-8b0f-49a7-bb75-339fa3b7588b"
 
 [triggers]
 crons = ["* * * * *"]
